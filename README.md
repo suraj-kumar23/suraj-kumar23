@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Suraj Kumar Biswas
 
-<# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on: Improving my skills in machine learning, cloud computing, and blockchain development.<br>👯 I’m looking to collaborate on: Open-source projects related to AI, cloud, data analytics, blockchain, and web development.<br>🤝 I’m looking for help with: Learning best practices for secure smart contract development.<br>🌱 I’m currently learning: Advanced data visualization techniques.<br>💬 Ask me about: Anything related to Python, AI, data science, or blockchain basics.<br>⚡ Fun fact: I love blending tech with creativity — whether that’s through creative writing, public speaking.<br>
 
 
