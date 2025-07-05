@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Suraj Kumar Biswas
 
 # 💫 About Me:
-🔭 I’m currently working on experimenting with ideas that make technology more inclusive and accessible for everyone.<br>👯 I’m looking to collaborate on hackathons, technical writing, or community tech initiatives.<br>🤝 I’m looking for help with exploring cutting-edge trends in AI and data privacy.<br>🌱 I’m currently learning ways to integrate AI models with scalable web apps.<br>💬 Ask me about anything related to Python, AI, data science, or blockchain basics.<br>⚡ Fun fact, I love blending tech with creativity — whether that’s through creative writing, public speaking, or performing arts.
+🔭 I’m currently working on experimenting with ideas that make technology more inclusive and accessible for everyone.<br>👯 I’m looking to collaborate on hackathons, technical writing, or community tech initiatives.<br>🤝 I’m looking for help with exploring cutting-edge trends in AI and data privacy.<br>🌱 I’m currently learning ways to integrate AI models with scalable web apps.<br>💬 Ask me about anything related to Python, AI, data science, or blockchain basics.<br>⚡ Fun fact, I love blending tech with creativity — whether that’s through creative writing, public speaking, or performing arts.<br><br>📌Core Skills:<br>Programming: Python, Java, SQL, JavaScript, TypeScript, Solidity<br>Tech: AI/ML, data analysis, data visualization, cloud technologies, smart contracts<br>Frameworks & Tools: React, Node.js, Flask, TensorFlow, Keras, OpenCV<br>Soft Skills: Leadership, teamwork, public speaking, problem-solving<br><br>💡 Current Goal:<br>To grow as a well-rounded tech professional by constantly exploring new technologies and solving real-world problems.
 
 
 ## 🌐 Socials:
@@ -24,6 +24,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=suraj-kumar23&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=suraj-kumar23&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=suraj-kumar23&icon=10&color=12)](https://visitcount.itsvg.in)
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
